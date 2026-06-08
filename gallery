@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="home.css">
+    <title>Document</title>
+</head>
+<body>
+      <header class="nav-flex">
+        <h1>My Blog</h1>
+        <nav>
+            <a href="home.html">Home</a>
+            <a href="gallery.html">Gallery</a>
+            <a href="#">Store</a>
+            <a href="#">About</a>
+        </nav>
+      </header>
+      <main>
+        <h2>Gallery</h2>
+        <section class="container-blog">
+                <div class="card">
+                <img src="image.jpg" alt="measurement">
+                <h3>Title 1</h3>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tenetur rem in quia dolores dolorem nihil enim recusandae necessitatibus corporis minima cumque voluptatibus nulla numquam debitis, earum deleniti? Deleniti, aperiam nostrum.</p>
+            </div>
+                <div class="card">
+                <img src="image3.jpg" alt="measurement">
+                <h3>Title 2</h3>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tenetur rem in quia dolores dolorem nihil enim recusandae necessitatibus corporis minima cumque voluptatibus nulla numquam debitis, earum deleniti? Deleniti, aperiam nostrum.</p>
+            </div>
+                <div class="card">
+                <img src="image4.jpg" alt="measurement">
+                <h3>Title 3</h3>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tenetur rem in quia dolores dolorem nihil enim recusandae necessitatibus corporis minima cumque voluptatibus nulla numquam debitis, earum deleniti? Deleniti, aperiam nostrum.</p>
+            </div>
+
+        </section>
+
+      </main>
+</body>
+</html>
